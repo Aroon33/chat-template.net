@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+
+# logs
+*.log
+
+# env
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.swp
